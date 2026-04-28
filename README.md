@@ -1,6 +1,6 @@
 # <div align="center">👨‍💻 Alexis Antonio Jiménez Joaquín</div>
 <div align="center">
-  <strong>Full Stack Developer | PHP (Laravel) - Java (Spring Boot) - Node.js (express) </strong>
+  <strong>Full Stack Developer | PHP (Laravel) - Java (Spring Boot) - Javascript (React | Angular) </strong>
 </div>
 
 <div align="center">
