@@ -75,11 +75,20 @@ Desarrollador Full Stack con más de 5 años de experiencia, enfocado en la crea
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexhizjimenez&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-## 📜 Certificaciones & Cursos
+## 📜 Constancias & Cursos
 * **Backend Developer:** Experiencia avanzada en Laravel (APIs REST, Eloquent ORM) - Nivel medio-intermedio en desarrollo de backend y APIs REST en Java con Spring Boot.
 * **Frontend:** (JavaScript Moderno (ES6+)) - React, Angular y Vue.js.
 * **Fundamentos de Ingeniería:** Sólidos conocimientos en bases de datos y buenas prácticas de desarrollo.
 * **Idiomas:** Inglés Intermedio / Técnico (B1 en desarrollo).
+
+
+### 🏅 Certificaciones Profesionales
+<h3 align="center" href="https://www.dropbox.com/scl/fi/2c7qo5doa91f0utxwle6j/1_Alexis-Antonio-Jimenez-Joaquin.pdf?rlkey=7u37bono730zykrevns4g8z4z&st=nbmnnmid&dl=0" >Java Full Stack Developer</h3>
+<p align="center">
+  <a href="https://www.dropbox.com/scl/fi/2c7qo5doa91f0utxwle6j/1_Alexis-Antonio-Jimenez-Joaquin.pdf?rlkey=7u37bono730zykrevns4g8z4z&st=nbmnnmid&dl=0" target="_blank">
+    <img src="https://mitocode.com/wp-content/uploads/2022/08/892X622_3P-1.png" width="250" alt="Java Full Stack Developer Certified" />
+  </a>
+</p>
 
 ---
 <div align="center">
