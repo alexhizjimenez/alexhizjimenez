@@ -47,12 +47,13 @@ Desarrollador Full Stack con más de 5 años de experiencia, enfocado en la crea
 ### 🛠️ Backend & Lenguajes
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### 🎨 Frontend & Estilos
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
@@ -75,10 +76,10 @@ Desarrollador Full Stack con más de 5 años de experiencia, enfocado en la crea
 </div>
 
 ## 📜 Certificaciones & Cursos
-* **Backend Developer:** Experiencia avanzada en Laravel (APIs REST, Eloquent ORM) - Nivel medio-intermedio en desarrollo de backend y APIs REST en Spring Boot.
-* **Frontend:** JavaScript Moderno (ES6+), React, Angular y Vue.js.
+* **Backend Developer:** Experiencia avanzada en Laravel (APIs REST, Eloquent ORM) - Nivel medio-intermedio en desarrollo de backend y APIs REST en Java con Spring Boot.
+* **Frontend:** (JavaScript Moderno (ES6+)) - React, Angular y Vue.js.
 * **Fundamentos de Ingeniería:** Sólidos conocimientos en bases de datos y buenas prácticas de desarrollo.
-* **Idiomas:** Inglés (Nivel A1-A2).
+* **Idiomas:** Inglés Intermedio / Técnico (B1 en desarrollo).
 
 ---
 <div align="center">
