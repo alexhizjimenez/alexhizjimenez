@@ -1,9 +1,12 @@
 # <div align="center">👨‍💻 Alexis Antonio Jiménez Joaquín</div>
 <div align="center">
-  <strong>Full Stack Developer | PHP (Laravel) - Java (Spring Boot) - Javascript (React | Angular) </strong>
+  <strong>Desarrollador Full Stack | Laravel | Spring Boot | React | PostgreSQL | MySQL </strong>
 </div>
 
 <div align="center">
+  <a href="https://alexhizdev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio">
+  </a>
   <a href="https://www.linkedin.com/in/alexhizdev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -17,9 +20,9 @@
 
 ## 🚀 Sobre mí
 
-Desarrollador Full Stack con más de 5 años de experiencia, enfocado en la creación de soluciones robustas y escalables. He liderado el desarrollo de las plataformas de PAIMEF y Forward Company. Mi perfil se caracteriza por la adaptabilidad y el interés en la evolución tecnológica, lo que me ha llevado a seguir en constante aprendizaje de nuevas tecnologías.
+Desarrollador Backend / Full Stack con más de 5 años de experiencia desarrollando aplicaciones web escalables y APIs REST utilizando Laravel, Spring Boot, React, PostgreSQL y MySQL. Experiencia liderando equipos de desarrollo, optimizando procesos de negocio y construyendo soluciones de alto rendimiento para sectores gubernamentales y privados. Enfocado en arquitectura de software, buenas prácticas y aprendizaje continuo.
 
-- 📈 **Logros destacados:** En **Forward Company**, lideré un equipo de 3 desarrolladores, logrando reducir los tiempos de entrega en un **25%** y optimizando consultas de base de datos en un **35%**.
+- 📈 **Logros destacados:** En **Forward Company**, lideré un equipo de desarrollo, logrando reducir los tiempos de entrega en un **25%** y optimizando consultas de base de datos en un **35%**.
 - 🛠️ **Especialidad:** Arquitecturas escalables con **Laravel** y **React**, con un fuerte enfoque en bases de datos relacionales y APIs de alta disponibilidad.
 - 🔭 **Enfoque actual:** Profundizando en **Spring Boot** y arquitecturas de microservicios.
 - ⚡ **Dato curioso:** Me apasiona optimizar procesos, Formación continua en buenas prácticas, bases de datos y desarrollo de APIs REST.
@@ -78,9 +81,9 @@ Desarrollador Full Stack con más de 5 años de experiencia, enfocado en la crea
 ## 📜 Constancias & Cursos
 * **Backend Developer:** Experiencia avanzada en Laravel (APIs REST, Eloquent ORM) - Nivel medio-intermedio en desarrollo de backend y APIs REST en Java con Spring Boot.
 * **Frontend:** (JavaScript Moderno (ES6+)) - React, Angular y Vue.js.
-* **Fundamentos de Ingeniería:** Sólidos conocimientos en bases de datos y buenas prácticas de desarrollo.
+* **Bases de datos:** Bases de datos PostgreSQL, MySQL y Firebase.
+* **Fundamentos de Ingeniería:** Arquitectura de Software.
 * **Idiomas:** Inglés Intermedio / Técnico (B1 en desarrollo).
-
 
 ### 🏅 Certificaciones Profesionales
 <h3 align="center" href="https://www.dropbox.com/scl/fi/2c7qo5doa91f0utxwle6j/1_Alexis-Antonio-Jimenez-Joaquin.pdf?rlkey=7u37bono730zykrevns4g8z4z&st=nbmnnmid&dl=0" >Java Full Stack Developer</h3>
