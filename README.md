@@ -1,6 +1,6 @@
 # <div align="center">👨‍💻 Alexis Antonio Jiménez Joaquín</div>
 <div align="center">
-  <strong>Desarrollador Full Stack | Laravel | Spring Boot | React | PostgreSQL | MySQL </strong>
+  <strong>Desarrollador Full Stack | Spring Boot | Laravel | React | PostgreSQL | MySQL </strong>
 </div>
 
 <div align="center">
@@ -20,21 +20,20 @@
 
 ## 🚀 Sobre mí
 
-Desarrollador Backend / Full Stack con más de 5 años de experiencia desarrollando aplicaciones web escalables y APIs REST utilizando Laravel, Spring Boot, React, PostgreSQL y MySQL. Experiencia liderando equipos de desarrollo, optimizando procesos de negocio y construyendo soluciones de alto rendimiento para sectores gubernamentales y privados. Enfocado en arquitectura de software, buenas prácticas y aprendizaje continuo.
+Desarrollador Backend / Full Stack con más de 6 años de experiencia desarrollando aplicaciones web escalables y APIs REST utilizando Spring Boot, Laravel, React, PostgreSQL y MySQL. Experiencia liderando equipos de desarrollo, optimizando procesos de negocio y construyendo soluciones de alto rendimiento para sectores gubernamentales y privados. Enfocado en arquitectura de software, buenas prácticas y aprendizaje continuo.
 
 - 📈 **Logros destacados:** En **Forward Company**, lideré un equipo de desarrollo, logrando reducir los tiempos de entrega en un **25%** y optimizando consultas de base de datos en un **35%**.
-- 🛠️ **Especialidad:** Arquitecturas escalables con **Laravel** y **React**, con un fuerte enfoque en bases de datos relacionales y APIs de alta disponibilidad.
-- 🔭 **Enfoque actual:** Profundizando en **Spring Boot** y arquitecturas de microservicios.
+- 🛠️ **Especialidad:** Arquitecturas escalables con **Spring Boot**, **Laravel** y **React**, con un fuerte enfoque en bases de datos relacionales y APIs de alta disponibilidad.
 - ⚡ **Dato curioso:** Me apasiona optimizar procesos, Formación continua en buenas prácticas, bases de datos y desarrollo de APIs REST.
 
 
 ## 🌟 Proyectos & Logros Clave
 
 ### 💼 (Full Stack Developer)
-* **Plataforma de Reclutamiento:** Desarrollada con Laravel, PostgreSQL y React; redujo el tiempo de gestión de candidatos en un **30%**.
-* **Gestión de Tareas Programadas:** Herramienta en Node.js y MySQL que mejoró la confiabilidad del sistema y redujo en un **40%** los tiempos de notificación.
-* **Pasarela de Pagos:** Integración de PayPal que contribuyó a un incremento del **20%** en conversiones.
-* **API REST de Alta Disponibilidad:** Implementación para apps móviles con soporte de más de **5,000 solicitudes diarias**.
+* **Plataforma de Reclutamiento:** Desarrollada con Spring Boot, PostgreSQL y React; redujo el tiempo de gestión de candidatos en un **30%**.
+* **Gestión de Tareas Programadas:** Herramienta en Spring Boot  y PostgreSQL que mejoró la confiabilidad del sistema y redujo en un **40%** los tiempos de notificación.
+* **Pasarela de Pagos:** Integración de PayPal y Mercado Pago que contribuyó a un incremento del **20%** en conversiones.
+* **API REST de Alta Disponibilidad:** Implementación de APIs REST para aplicaciones móviles basadas en una arquitectura de microservicios utilizando Spring Boot, Spring Data JPA, Hibernate y PostgreSQL documentados con Swagger/OpenAPI y mecanismos de autenticación y autorización mediante JSON Web Tokens (JWT), garantizando la seguridad y escalabilidad de la plataforma.**.
 * **Optimización de DB:** Reducción de tiempos de respuesta en un **35%** mediante el uso de CTEs en PostgreSQL.
 * **Plataforma PAIMEF:** Desarrollo integral del sistema para la gestión de programas de apoyo.
 
@@ -48,10 +47,10 @@ Desarrollador Backend / Full Stack con más de 5 años de experiencia desarrolla
 <div align="center">
 
 ### 🛠️ Backend & Lenguajes
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
@@ -63,8 +62,8 @@ Desarrollador Backend / Full Stack con más de 5 años de experiencia desarrolla
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🗄️ Databases & DevOps
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -79,10 +78,10 @@ Desarrollador Backend / Full Stack con más de 5 años de experiencia desarrolla
 </div>
 
 ## 📜 Constancias & Cursos
-* **Backend Developer:** Experiencia avanzada en Laravel (APIs REST, Eloquent ORM) - Nivel medio-intermedio en desarrollo de backend y APIs REST en Java con Spring Boot.
+* **Backend Developer:** Experiencia de nivel intermedio-avanzado en desarrollo backend con Java (Spring Boot) y PHP (Laravel).
 * **Frontend:** (JavaScript Moderno (ES6+)) - React, Angular y Vue.js.
 * **Bases de datos:** Bases de datos PostgreSQL, MySQL y Firebase.
-* **Fundamentos de Ingeniería:** Arquitectura de Software.
+* **Fundamentos de Ingeniería:** Arquitectura de Software, Arquitectura Hexagonal, Clean Code, SOLID, Desarrollo Ágil.
 * **Idiomas:** Inglés Intermedio / Técnico (B1 en desarrollo).
 
 ### 🏅 Certificaciones Profesionales
