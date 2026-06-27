@@ -20,7 +20,7 @@
 
 ## 🚀 Sobre mí
 
-Desarrollador Backend / Full Stack con más de 6 años de experiencia desarrollando aplicaciones web escalables y APIs REST utilizando Spring Boot, Laravel, React, PostgreSQL y MySQL. Experiencia liderando equipos de desarrollo, optimizando procesos de negocio y construyendo soluciones de alto rendimiento para sectores gubernamentales y privados. Enfocado en arquitectura de software, buenas prácticas y aprendizaje continuo.
+Desarrollador Backend / Full Stack con más de 6 años de experiencia en el diseño e implementación de APIs REST, microservicios y aplicaciones empresariales con Java, Spring Boot, Spring Security, JPA/Hibernate, Laravel, PostgreSQL y MySQL. Especializado en arquitecturas hexagonales, Clean Architecture y principios SOLID, con experiencia en optimización de consultas SQL, diseño de soluciones escalables y construcción de aplicaciones de alto rendimiento.
 
 - 📈 **Logros destacados:** En **Forward Company**, lideré un equipo de desarrollo, logrando reducir los tiempos de entrega en un **25%** y optimizando consultas de base de datos en un **35%**.
 - 🛠️ **Especialidad:** Arquitecturas escalables con **Spring Boot**, **Laravel** y **React**, con un fuerte enfoque en bases de datos relacionales y APIs de alta disponibilidad.
@@ -33,13 +33,14 @@ Desarrollador Backend / Full Stack con más de 6 años de experiencia desarrolla
 * **Plataforma de Reclutamiento:** Desarrollada con Spring Boot, PostgreSQL y React; redujo el tiempo de gestión de candidatos en un **30%**.
 * **Gestión de Tareas Programadas:** Herramienta en Spring Boot  y PostgreSQL que mejoró la confiabilidad del sistema y redujo en un **40%** los tiempos de notificación.
 * **Pasarela de Pagos:** Integración de PayPal y Mercado Pago que contribuyó a un incremento del **20%** en conversiones.
-* **API REST de Alta Disponibilidad:** Implementación de APIs REST para aplicaciones móviles basadas en una arquitectura de microservicios utilizando Spring Boot, Spring Data JPA, Hibernate y PostgreSQL documentados con Swagger/OpenAPI y mecanismos de autenticación y autorización mediante JSON Web Tokens (JWT), garantizando la seguridad y escalabilidad de la plataforma.**.
+* **API REST de Alta Disponibilidad:** Implementación de APIs REST para aplicaciones móviles basadas en una arquitectura de microservicios utilizando Spring Boot, Spring Data JPA, Hibernate, Laravel, PostgreSQL y MySQL documentados con Swagger/OpenAPI y mecanismos de autenticación y autorización mediante JSON Web Tokens (JWT), garantizando la seguridad y escalabilidad de la plataforma.**.
 * **Optimización de DB:** Reducción de tiempos de respuesta en un **35%** mediante el uso de CTEs en PostgreSQL.
 * **Plataforma PAIMEF:** Desarrollo integral del sistema para la gestión de programas de apoyo.
 
 ### 📍 Otros Proyectos Impactantes
 * **Sistema de Pedidos "Sevillana":** Solución personalizada para empresa en Salina Cruz.
 * **Sistemas de Inventario:** Implementaciones para la Regiduría de Ixtaltepec y la empresa Copalist.
+* **Control Estudiantil:** Sistema de información para el registro y control estudiantil en el Centro de Bachillerato Tecnológico Industrial y de Servicios No. 25, Salina Cruz, Oaxaca.
 
 
 ## 💻 Tech Stack
@@ -52,7 +53,7 @@ Desarrollador Backend / Full Stack con más de 6 años de experiencia desarrolla
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🎨 Frontend & Estilos
 
@@ -64,7 +65,7 @@ Desarrollador Backend / Full Stack con más de 6 años de experiencia desarrolla
 ### 🗄️ Databases & DevOps
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
