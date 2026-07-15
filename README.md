@@ -1,6 +1,6 @@
 # <div align="center">👨‍💻 Alexis Antonio Jiménez Joaquín</div>
 <div align="center">
-  <strong>Desarrollador Full Stack | Spring Boot | Laravel | React | PostgreSQL | MySQL </strong>
+  <strong>Backend Developer | Spring Boot | Laravel | React | PostgreSQL | MySQL </strong>
 </div>
 
 <div align="center">
@@ -20,7 +20,7 @@
 
 ## 🚀 Sobre mí
 
-Desarrollador Backend / Full Stack con más de 6 años de experiencia en el diseño e implementación de APIs REST, microservicios y aplicaciones empresariales con Java, Spring Boot, Spring Security, JPA/Hibernate, Laravel, PostgreSQL y MySQL. Especializado en arquitecturas hexagonales, Clean Architecture y principios SOLID, con experiencia en optimización de consultas SQL, diseño de soluciones escalables y construcción de aplicaciones de alto rendimiento.
+Backend Developer con más de 6 años de experiencia en el diseño y desarrollo de APIs REST, microservicios y aplicaciones empresariales utilizando Spring Boot, Spring Cloud, Spring Security, JPA/Hibernate, Laravel, PostgreSQL y MySQL. Especializado en Arquitectura Hexagonal, Clean Architecture y principios SOLID, desarrollando soluciones escalables, seguras y de alto rendimiento aplicando buenas prácticas de optimización de bases de datos para mejorar la eficiencia y escalabilidad de las aplicaciones.
 
 - 📈 **Logros destacados:** En **Forward Company**, lideré un equipo de desarrollo, logrando reducir los tiempos de entrega en un **25%** y optimizando consultas de base de datos en un **35%**.
 - 🛠️ **Especialidad:** Arquitecturas escalables con **Spring Boot**, **Laravel** y **React**, con un fuerte enfoque en bases de datos relacionales y APIs de alta disponibilidad.
