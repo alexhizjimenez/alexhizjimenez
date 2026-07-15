@@ -1,6 +1,7 @@
-# <div align="center">👨‍💻 Alexis Antonio Jiménez Joaquín</div>
+## <div align="center">👨‍💻 Alexis Antonio Jiménez Joaquín</div>
+### <div align="center"> <strong>Backend Developer</strong> </div>
 <div align="center">
-  <strong>Backend Developer | Spring Boot | Laravel | React | PostgreSQL | MySQL </strong>
+  <strong>Spring Boot | Laravel | React | PostgreSQL | MySQL </strong>
 </div>
 
 <div align="center">
