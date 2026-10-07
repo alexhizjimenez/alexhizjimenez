@@ -1,5 +1,5 @@
 ## <div align="center">👨‍💻 Alexis Antonio Jiménez Joaquín</div>
-### <div align="center"> <strong>Backend Developer Semi Senior</strong> </div>
+### <div align="center"> <strong>Software Engineer | Backend Developer Mid-Level</strong> </div>
 <div align="center">
   <strong>Java * Spring Boot | PHP * Laravel | React | PostgreSQL | MySQL </strong>
 </div>
@@ -21,7 +21,10 @@
 
 ## 🚀 Sobre mí
 
-Backend Developer Semi Senior con 6+ años de experiencia diseñando APIs REST y microservicios con Java, Spring Boot, Spring Cloud y Spring Security, y aplicaciones empresariales con PHP y Laravel. Aplico Arquitectura Hexagonal, Clean Architecture y principios SOLID para construir soluciones escalables, seguras y de alto rendimiento, con experiencia optimizando PostgreSQL/MySQL.
+Backend Developer / Software Engineer con más de 6 años de experiencia en el diseño y desarrollo de APIs REST, microservicios
+y aplicaciones empresariales. Especializado en Java, Spring Boot, Spring Data, Spring Cloud y Spring Security, con experiencia
+adicional en PHP, Laravel y React. Aplico Arquitectura Hexagonal, Clean Architecture y principios SOLID para desarrollar
+soluciones escalables, seguras y mantenibles. Experiencia en optimización y diseño de bases de datos PostgreSQL y MySQL.
 
 - 📈 **Logros destacados:** En **Forward Company**, lideré un equipo de desarrollo, logrando reducir los tiempos de entrega en un **25%** y optimizando consultas de base de datos en un **35%**.
 - 🛠️ **Especialidad:** Arquitecturas escalables con **Spring Boot**, **Laravel** y **React**, con un fuerte enfoque en bases de datos relacionales y APIs de alta disponibilidad.
